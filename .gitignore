@@ -1,0 +1,7 @@
+# Apps Script local tooling (clasp)
+.clasp.json
+.clasprc.json
+
+# Never commit secrets
+*.secret
+.env
